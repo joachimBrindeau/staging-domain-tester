@@ -1,4 +1,4 @@
-# Stagaing domain Tester
+# Staging domain Tester
 
 Staging domain Tester is a Python script that tests all URLs in an XML sitemap using a specified staging domain. It retrieves the sitemap, extracts all URLs, replaces the original domain in these URLs with the input staging domain, and tests each URL while providing updates on progress in the terminal. The HTTP status code for each URL is recorded.
 
