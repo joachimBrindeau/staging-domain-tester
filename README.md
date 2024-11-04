@@ -68,7 +68,7 @@ Here are the steps to get the script up and running:
 7. Download the script. Replace "https://path_to_the_script/sitemap_tester.py" with the actual URL of the script:
 
    ```bash
-   curl -O https://path_to_the_script/sitemap_tester.py
+   curl -O https://raw.githubusercontent.com/joachimBrindeau/staging-domain-tester/refs/heads/master/sitemap_check.py
    ```
 
 ## How to Run the Script
