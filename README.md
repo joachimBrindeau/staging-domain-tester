@@ -77,7 +77,7 @@ Here are the steps to get the script up and running:
 2. Run the script using Python 3:
 
    ```bash
-   python3 sitemap_tester.py
+   python3 sitemap_check.py
    ```
 
 3. When prompted, enter the sitemap URL and the staging domain.
